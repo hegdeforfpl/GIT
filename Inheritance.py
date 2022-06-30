@@ -1,11 +1,11 @@
 class A:
     def a(self):
-        print("Parent")
+        print("Parent class")
 
 
 class B(A):
     def b(self):
-        print("Child")
+        print("Child class")
 
 
 d = B()

@@ -1,6 +1,6 @@
 message = "Hello World"
 print(message)
-print(message[7])
+print(message[8])
 print(message[0:5])
 print(message[:5])
 print(message[6:])

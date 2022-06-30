@@ -2,7 +2,7 @@
 num = 3
 print(type(num))
 #float
-num = 3.5
+num = 3.7
 print(type(num))
 #Addition
 print(3+1)
